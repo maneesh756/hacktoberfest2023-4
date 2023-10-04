@@ -1,3 +1,4 @@
+<!-- This program is contributed by Gaurav Mandal -->
 
 # Hacktoberfest 2023
 
@@ -68,3 +69,6 @@ Happy coding!
 ```
 
 You can customize this `README.md` template further to match your specific project's needs and add any additional information or guidelines as necessary.
+```
+
+<!-- # This code is contributed by Gaurav Mandall (https://www.linkedin.com/in/gauravmandall/) -->
